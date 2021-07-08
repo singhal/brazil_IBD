@@ -1,0 +1,376 @@
+individual,nominal species,revised taxon name,latitude,longitude,# of loci,# of sites (Mb),avg. coverage,SRA
+CHUNB40084,Amerotyphlops reticulatus,Amerotyphlops reticulatus,-7.034836,-55.41987,4969,3.4,91.9,TBD
+CHUNB68360,Amerotyphlops reticulatus,Amerotyphlops reticulatus,-12.932049,-51.833363,4892,3.5,74.6,TBD
+CHUNB71122,Amerotyphlops reticulatus,Amerotyphlops reticulatus,-12.5923,-52.209892,4843,3.2,52.4,TBD
+RAB_00216,Amerotyphlops reticulatus,Amerotyphlops reticulatus,-12.5719387,-70.08582735,4510,2.1,42,TBD
+AAGarda02343,Amphisbaena alba,Amphisbaena alba,-12.029774,-48.537811,5204,3.6,81.7,TBD
+CHUNB44483,Amphisbaena alba,Amphisbaena alba,-17.359421,-44.955194,5200,4.1,77.5,TBD
+CHUNB52145,Amphisbaena alba,Amphisbaena alba,-7.330783,-47.470092,5159,3.5,66.2,TBD
+GRCOLLI04518,Amphisbaena alba,Amphisbaena alba,-12.741373,-60.138584,5247,3.2,96.1,TBD
+GRCOLLI10442,Amphisbaena alba,Amphisbaena alba,-17.219742,-46.875419,5231,3.4,88.9,TBD
+GRCOLLI15744,Amphisbaena alba,Amphisbaena alba,-6.485331,-38.311129,5211,3.4,83.4,TBD
+GRCOLLI21850,Amphisbaena alba,Amphisbaena alba,-7.231753,-39.40839,5224,4,84,TBD
+GRCOLLI24519,Amphisbaena alba,Amphisbaena alba,-12.932049,-51.833363,5221,3.6,93.6,TBD
+TMOTT175,Amphisbaena alba,Amphisbaena alba,-9.954073,-54.916057,5203,3.4,76.3,TBD
+TMOTT191,Amphisbaena alba,Amphisbaena alba,-15.674071,-58.097904,5188,3.5,69.8,TBD
+TMOTT199,Amphisbaena alba,Amphisbaena alba,-15.569989,-56.073252,5212,3.4,79.7,TBD
+GFHORTA0098,Anolis brasiliensis,Anolis brasiliensis,-12.173598,-51.503639,5333,3.5,74.9,TBD
+GRCOLLI26899,Anolis brasiliensis,Anolis brasiliensis,-7.330783,-47.470092,5283,4.1,84.1,TBD
+CHUNB51972,Anolis brasiliensis,Anolis brasiliensis,-7.330783,-47.470092,5277,4.5,71.9,TBD
+CHUNB58055,Anolis brasiliensis,Anolis brasiliensis,-9.329425,-50.344804,5326,2.5,54,TBD
+GRCOLLI12455,Anolis brasiliensis,Anolis brasiliensis,-12.029774,-48.537811,5338,2.6,79,TBD
+GRCOLLI15938,Anolis brasiliensis,Anolis brasiliensis,-6.485331,-38.311129,5367,3.9,100.9,TBD
+GRCOLLI26418,Anolis brasiliensis,Anolis brasiliensis,-13.188043,-53.261519,5356,3.4,93.9,TBD
+CHUNB60380,Anolis brasiliensis,Anolis meridionalis,-15.794087,-47.887905,5325,3.7,79.8,TBD
+GRCOLLI25188,Anolis meridionalis,Anolis meridionalis,-15.009324,-59.952558,5319,3.4,70.9,TBD
+GRCOLLI04475,Anolis meridionalis,Anolis meridionalis,-12.741373,-60.138584,5326,4.5,83.2,TBD
+CHUNB51197,Anolis meridionalis,Anolis meridionalis,-14.171078,-44.545669,5345,4.3,94.7,TBD
+CHUNB70203,Anolis meridionalis,Anolis meridionalis,-15.794087,-47.887905,5324,3.3,84.8,TBD
+GRCOLLI16776,Anolis meridionalis,Anolis meridionalis,-17.359421,-44.955194,5332,3.7,85.9,TBD
+GRCOLLI12452,Apostolepis ammodites,Apostolepis ammodites,-12.029774,-48.537811,10,0,11.7,TBD
+CHUNB38443,Apostolepis ammodites,Apostolepis ammodites,-14.450174,-47.045083,5065,3.2,92.4,TBD
+CHUNB51360,Apostolepis ammodites,Apostolepis ammodites,-14.17108,-44.54567,5020,3.8,73.3,TBD
+CHUNB59061,Apostolepis ammodites,Apostolepis ammodites,-14.136245,-47.519093,5032,3.3,73.9,TBD
+CHUNB62399,Apostolepis ammodites,Apostolepis ammodites,-18.169573,-47.947703,5108,3.8,120.1,TBD
+GRCOLLI18529,Apostolepis ammodites,Apostolepis ammodites,-14.171078,-44.545669,4970,2.6,50.9,TBD
+LJVITT09444,Apostolepis ammodites,Apostolepis ammodites,-11.463466,-39.526265,5075,3.4,97.4,TBD
+CHUNB25842,Bachia bresslaui,Bachia bresslaui 1,-17.219742,-46.875419,5135,2.9,78.5,TBD
+CHUNB44521,Bachia bresslaui,Bachia bresslaui 1,-17.359421,-44.955194,5114,2.8,75.4,TBD
+CHUNB63628,Bachia bresslaui,Bachia bresslaui 1,-14.66918,-52.361193,5118,2.8,71.9,TBD
+CHUNB74029,Bachia bresslaui,Bachia bresslaui 1,-16.769434,-47.606818,5145,3.1,83.9,TBD
+GFHORTA0135,Bachia bresslaui,Bachia bresslaui 1,-12.932049,-51.833363,5142,3,81.1,TBD
+CHUNB40087,Bothrops brazili,Bothrops moojeni,-7.034836,-55.41987,5079,3.3,73.4,TBD
+CHUNB52121,Bothrops moojeni,Bothrops moojeni,-7.330783,-47.470092,4392,2.4,44.8,TBD
+CHUNB52122,Bothrops moojeni,Bothrops moojeni,-7.330783,-47.470092,4819,2.9,47.6,TBD
+CHUNB71688,Bothrops moojeni,Bothrops moojeni,-15.964838,-54.964188,5126,3.7,102.3,TBD
+CHUNB74000,Bothrops moojeni,Bothrops moojeni,-10.440931,-49.166658,4313,2.4,48.4,TBD
+GRCOLLI22103,Bothrops leucurus,Bothrops moojeni,-7.231753,-39.40839,5086,3.4,79.3,TBD
+GRCOLLI22662,Bothrops brazili,Bothrops moojeni,-12.932049,-51.833363,5077,3.7,84.1,TBD
+GRCOLLI23675,Bothrops moojeni,Bothrops moojeni,-12.5923,-52.209892,5006,4.4,102.5,TBD
+GRCOLLI25976,Bothrops moojeni,Bothrops moojeni,-13.799279,-47.463436,4981,4.6,91.8,TBD
+GRCOLLI26380,Bothrops atrox,Bothrops moojeni,-13.188043,-53.261519,5107,3.6,85.8,TBD
+CHUNB40588,Brasiliscincus heathi,Brasiliscincus heathi,-10.544429,-46.412466,5276,4.1,81.4,TBD
+CHUNB37505,Brasiliscincus heathi,Brasiliscincus heathi,-14.482839,-46.515638,5246,4,68.4,TBD
+CHUNB37518,Brasiliscincus heathi,Brasiliscincus heathi,-6.485331,-38.311129,5213,3.2,50.5,TBD
+CHUNB56572,Brasiliscincus heathi,Brasiliscincus heathi,-12.870575,-39.859127,5264,4.2,73.3,TBD
+CHUNB61038,Brasiliscincus heathi,Brasiliscincus heathi,-4.276069,-41.778505,5277,4.1,82.4,TBD
+CN1637,Brasiliscincus heathi,Brasiliscincus heathi,-7.330783,-47.470092,5031,3.3,46.5,TBD
+CHUNB22672,Cercosaura argula,Cercosaura eigenmanni,-10.773884,-65.323952,5131,3.3,94.1,TBD
+CHUNB11467,Cercosaura eigenmanni,Cercosaura eigenmanni,-12.741373,-60.138584,5069,3.1,74,TBD
+CHUNB18028,Cercosaura eigenmanni,Cercosaura eigenmanni,-11.677537,-61.183666,5122,3.4,98.4,TBD
+CHUNB22468,Cercosaura eigenmanni,Cercosaura eigenmanni,-10.773884,-65.323952,5095,3.2,82.1,TBD
+CHUNB68408,Cercosaura eigenmanni,Cercosaura eigenmanni,-12.932049,-51.833363,5090,3.1,84.4,TBD
+CHUNB73582,Cercosaura eigenmanni,Cercosaura eigenmanni,-12.173598,-51.503639,5119,3.4,96.7,TBD
+GRCOLLI25802,Cercosaura eigenmanni,Cercosaura eigenmanni,-15.009324,-59.952558,5059,2.8,73.1,TBD
+UMMZ_245036,Cercosaura eigenmanni,Cercosaura eigenmanni,-12.56248601,-70.09665191,4457,1.8,53.6,TBD
+GRCOLLI04419,Cercosaura ocellata,Cercosaura ocellata,-12.741373,-60.138584,5111,3.5,84.1,TBD
+GRCOLLI18507,Cercosaura ocellata,Cercosaura ocellata,-14.171078,-44.545669,5103,3.1,80.1,TBD
+GRCOLLI21268,Cercosaura ocellata,Cercosaura ocellata,-14.66918,-52.361193,5144,3.2,94.7,TBD
+LJVITT10185,Cercosaura ocellata,Cercosaura ocellata,-10.544429,-46.412466,5125,3.3,89.2,TBD
+PHV1022,Cercosaura ocellata,Cercosaura ocellata,-19.338658,-47.292008,5142,3.7,101,TBD
+UMMZ_245038,Cercosaura ocellata,Cercosaura ocellata,-12.56207974,-70.09652434,5134,3.5,94.5,TBD
+CHUNB43410,Cercosaura schreibersii,Cercosaura schreibersii,-16.258541,-47.95572,5083,2.7,82.1,TBD
+CHUNB50667,Cercosaura schreibersii,Cercosaura schreibersii,-13.195033,-60.818426,5111,3.1,89.4,TBD
+CHUNB57518,Cercosaura schreibersii,Cercosaura schreibersii,-15.794087,-47.887905,5093,2.8,77.9,TBD
+CHUNB63866,Cercosaura schreibersii,Cercosaura schreibersii,-14.66918,-52.361193,5103,3,84.5,TBD
+CHUNB73702,Cercosaura schreibersii,Cercosaura schreibersii,-12.932049,-51.833363,5080,3.1,82.2,TBD
+GRCOLLI06659,Cercosaura schreibersii,Cercosaura schreibersii,-17.219742,-46.875419,5091,2.7,88.2,TBD
+CHUNB63632,Chironius exoletus,Chironius exoletus,-14.66918,-52.361193,5120,3.6,100.3,TBD
+GRCOLLI26431,Chironius multiventris,Chironius exoletus,-13.188043,-53.261519,5023,3.3,57.9,TBD
+RAB_00525,Chironius carinatus,Chironius exoletus,-12.5613,-70.107,4794,2.4,59.9,TBD
+CHUNB45394,Chironius exoletus,Chironius exoletus,-9.267406,-49.948692,5064,2.8,61.6,TBD
+CHUNB52147,Chironius exoletus,Chironius exoletus,-7.330783,-47.470092,4865,3.8,47.5,TBD
+GRCOLLI26131,Chironius exoletus,Chironius exoletus,-13.799279,-47.463436,5113,3.3,91.1,TBD
+CHUNB40091,Chironius flavolineatus,Chironius flavolineatus,-7.034836,-55.41987,5121,4.1,102.5,TBD
+CHUNB41307,Chironius flavolineatus,Chironius flavolineatus,-10.544429,-46.412466,5089,3.6,83.7,TBD
+CHUNB44474,Chironius flavolineatus,Chironius flavolineatus,-17.359421,-44.955194,5110,3.5,88.9,TBD
+CHUNB67435,Chironius flavolineatus,Chironius flavolineatus,-15.853342,-48.962527,5109,3.5,87.6,TBD
+GRCOLLI20917,Chironius flavolineatus,Chironius flavolineatus,-14.66918,-52.361193,4945,2.6,41.5,TBD
+GRCOLLI25508,Chironius flavolineatus,Chironius flavolineatus,-15.009324,-59.952558,5108,3.3,94.1,TBD
+CHUNB68954,Chironius fuscus,Chironius fuscus,-12.932049,-51.833363,5110,3.9,90.1,TBD
+TJC1155,Chironius fuscus,Chironius fuscus,5.27739,-59.5174,5161,4.1,105.5,TBD
+TJC1604,Chironius fuscus,Chironius fuscus,5.08401,-59.98777,5113,4.1,87.3,TBD
+UMMZ_245047,Chironius fuscus,Chironius fuscus,-12.5613,-70.107,5040,3.2,77.4,TBD
+TJC1654,Chironius monticola,Chironius fuscus,1.49087,-75.40594,5130,4.3,96.6,TBD
+CHUNB45243,Colobosaura modesta,Colobosaura modesta,-9.267406,-49.948692,5078,4.3,81.8,TBD
+Cmo4,Colobosaura modesta,Colobosaura modesta,-10.3176,-48.1647,4799,2.7,60.3,TBD
+CN1507,Colobosaura modesta,Colobosaura modesta,-7.330783,-47.470092,5063,3.6,71.9,TBD
+GRCOLLI18297,Colobosaura modesta,Colobosaura modesta,-14.150185,-48.076843,5097,3.7,91.2,TBD
+GRCOLLI26643,Colobosaura modesta,Colobosaura modesta,-7.330783,-47.470092,5057,4.2,68.5,TBD
+LJVITT08623,Colobosaura modesta,Colobosaura modesta,-10.544429,-46.412466,5061,3.4,72.7,TBD
+CHUNB64621,Copeoglossum arajara,Copeoglossum nigropunctatum 1,-7.231753,-39.40839,5259,4.7,74.3,TBD
+CHUNB64623,Copeoglossum arajara,Copeoglossum nigropunctatum 1,-7.231753,-39.40839,5313,4.2,109.6,TBD
+CHUNB26401,Copeoglossum nigropunctatum,Copeoglossum nigropunctatum 1,-17.219742,-46.875419,5281,3.9,86.8,TBD
+CHUNB51999,Copeoglossum nigropunctatum,Copeoglossum nigropunctatum 1,-7.330783,-47.470092,5224,4.2,73.4,TBD
+GRCOLLI04909,Copeoglossum nigropunctatum,Copeoglossum nigropunctatum 1,-26.481473,-51.988774,5276,4.2,81.6,TBD
+GRCOLLI16027,Copeoglossum nigropunctatum,Copeoglossum nigropunctatum 1,-6.485331,-38.311129,5283,4.2,92.4,TBD
+CHUNB35758,Drymarchon corais,Drymarchon corais,-11.463466,-39.526265,5106,3.9,89.7,TBD
+CHUNB41313,Drymarchon corais,Drymarchon corais,-10.544429,-46.412466,4949,2.6,46.4,TBD
+CHUNB61846,Drymarchon corais,Drymarchon corais,-4.276069,-41.778505,5002,2.8,50.3,TBD
+RAB_00246,Drymarchon corais,Drymarchon corais,-12.5719387,-70.08582735,5106,3.1,83.5,TBD
+GRCOLLI22519,Erythrolamprus typhlus,Erythrolamprus poecilogyrus,-12.932049,-51.833363,5037,4,96.2,TBD
+CHUNB38780,Erythrolamprus poecilogyrus,Erythrolamprus poecilogyrus,-17.359421,-44.955194,4995,3.7,74.8,TBD
+CHUNB40825,Erythrolamprus poecilogyrus,Erythrolamprus poecilogyrus,-11.463466,-39.526265,4969,3.2,61.8,TBD
+CHUNB52059,Erythrolamprus poecilogyrus,Erythrolamprus poecilogyrus,-7.330783,-47.470092,2889,0.7,45.2,TBD
+CHUNB62581,Erythrolamprus poecilogyrus,Erythrolamprus poecilogyrus,-12.13678,-49.173847,4929,3.1,55.3,TBD
+GRCOLLI20248,Erythrolamprus poecilogyrus,Erythrolamprus poecilogyrus,-4.276069,-41.778505,4922,2.9,52.9,TBD
+GRCOLLI20891,Erythrolamprus poecilogyrus,Erythrolamprus poecilogyrus,-14.66918,-52.361193,5032,3.8,94.7,TBD
+GRCOLLI23352,Erythrolamprus poecilogyrus,Erythrolamprus poecilogyrus,-12.932049,-51.833363,5024,3.7,92.8,TBD
+GRCOLLI25761,Erythrolamprus poecilogyrus,Erythrolamprus poecilogyrus,-15.009324,-59.952558,5031,3.5,88.6,TBD
+RAB_00226,Liophis sp,Erythrolamprus reginae,-12.56809,-70.09943,5019,3.3,81.3,TBD
+UMMZ_245061,Liophis sp,Erythrolamprus reginae,-12.56318213,-70.09730729,5004,3,75.5,TBD
+UMMZ_245063,Erythrolamprus reginae,Erythrolamprus reginae,-12.57,-70.09,4770,2.4,50.2,TBD
+CHUNB47087,Erythrolamprus reginae,Erythrolamprus reginae,-9.871723,-56.09161,4972,2.3,65.3,TBD
+CHUNB50635,Erythrolamprus reginae,Erythrolamprus reginae,-13.195033,-60.818426,4979,3.5,77,TBD
+CHUNB52120,Erythrolamprus reginae,Erythrolamprus reginae,-7.330783,-47.470092,1960,0.4,63.7,TBD
+CHUNB62579,Erythrolamprus reginae,Erythrolamprus reginae,-12.13678,-49.173847,5020,3.8,92.2,TBD
+CHUNB67484,Erythrolamprus reginae,Erythrolamprus reginae,-15.737939,-48.283444,5018,3.2,88.1,TBD
+GRCOLLI22198,Erythrolamprus reginae,Erythrolamprus reginae,-7.231753,-39.40839,5009,3.8,85.4,TBD
+GRCOLLI22766,Erythrolamprus reginae,Erythrolamprus reginae,-12.932049,-51.833363,4999,3.2,74.1,TBD
+UMMZ_245062,Erythrolamprus reginae,Erythrolamprus reginae,-12.57171742,-70.08534389,4936,2.7,53.4,TBD
+CHUNB22726,Gonatodes humeralis,Gonatodes humeralis,-10.773884,-65.323952,5285,3.1,95.9,TBD
+CHUNB35169,Gonatodes humeralis,Gonatodes humeralis,-2.003328,-54.073375,5206,2.9,78.9,TBD
+CHUNB58535,Gonatodes humeralis,Gonatodes humeralis,-19.006375,-57.648985,5199,3.1,86.9,TBD
+GRCOLLI24011,Gonatodes humeralis,Gonatodes humeralis,-15.331336,-57.201357,5235,3.3,92.7,TBD
+GRCOLLI25683,Gonatodes humeralis,Gonatodes humeralis,-15.009324,-59.952558,5121,1.9,45.3,TBD
+LJVITT10947,Gonatodes humeralis,Gonatodes humeralis,-9.267406,-49.948692,5230,3.5,94.9,TBD
+UMMZ_245017,Gonatodes humeralis,Gonatodes humeralis,-12.56906798,-70.10000803,5215,3.4,96.9,TBD
+CHUNB56644,Gymnodactylus darwinii,Gymnodactylus geckoides,-6.833715,-35.123893,5165,3.8,59.1,TBD
+CHUNB56540,Gymnodactylus geckoides,Gymnodactylus geckoides,-12.870575,-39.859127,5190,3.3,67.9,TBD
+CHUNB56697,Gymnodactylus geckoides,Gymnodactylus geckoides,-6.833715,-35.123893,5210,3.7,75.1,TBD
+CHUNB61895,Gymnodactylus geckoides,Gymnodactylus geckoides,-6.563298,-40.12316,5210,4.3,70,TBD
+CHUNB61905,Gymnodactylus geckoides,Gymnodactylus geckoides,-7.516307,-39.722728,5195,4,71.2,TBD
+CHUNB63065,Gymnodactylus geckoides,Gymnodactylus geckoides,-6.833715,-35.123893,5172,3.6,59.9,TBD
+CHUNB71691,Helicops angulatus,Helicops angulatus,-13.776863,-47.26352,5063,3.3,78.3,TBD
+CHUNB43220,Helicops angulatus,Helicops angulatus,-8.355118,-49.176572,5078,3.8,89,TBD
+CHUNB47128,Helicops angulatus,Helicops angulatus,-9.871723,-56.09161,4054,0.7,18,TBD
+CHUNB52467,Helicops angulatus,Helicops angulatus,-12.029774,-48.537811,4988,1.8,50.6,TBD
+GRCOLLI20703,Helicops angulatus,Helicops angulatus,-14.66918,-52.361193,5070,3.4,74,TBD
+GRCOLLI26039,Helicops angulatus,Helicops angulatus,-10.440931,-49.166658,4985,2.5,50.7,TBD
+LJVITT09295,Helicops angulatus,Helicops angulatus,-10.544429,-46.412466,5029,3.3,64.3,TBD
+LJVITT09759,Helicops angulatus,Helicops angulatus,-7.034836,-55.41987,5074,3.5,74.8,TBD
+LJVITT10944,Helicops angulatus,Helicops angulatus,-9.267406,-49.948692,5081,3.7,82.8,TBD
+UMMZ_209972,Helicops angulatus,Helicops angulatus,6.489491,-58.23184,5086,3.7,96.8,TBD
+UMMZ_245053,Helicops angulatus,Helicops angulatus,-12.57,-70.09,5064,3.5,70.3,TBD
+CHUNB40620,Helicops leopardinus,Helicops modestus,-10.544429,-46.412466,5027,3.4,76.3,TBD
+CHUNB38641,Helicops modestus,Helicops modestus,-15.794087,-47.887905,5057,3.6,91.6,TBD
+CHUNB43293,Helicops modestus,Helicops modestus,-15.794087,-47.887905,456,0,15.1,TBD
+CHUNB43339,Helicops modestus,Helicops modestus,-16.258541,-47.95572,5006,3.2,68.6,TBD
+CHUNB40063,Hemidactylus mabouia,Hemidactylus mabouia,-7.034836,-55.41987,5209,4.2,74.3,TBD
+CHUNB61902,Hemidactylus mabouia,Hemidactylus mabouia,-7.180898,-39.73798,5179,4.2,69.6,TBD
+CHUNB74101,Hemidactylus mabouia,Hemidactylus mabouia,-18.325034,-53.70809,5071,3.1,39.9,TBD
+CHUNB74103,Hemidactylus mabouia,Hemidactylus mabouia,-16.359008,-46.899957,5210,4.2,75.7,TBD
+GRCOLLI23532,Hemidactylus mabouia,Hemidactylus mabouia,-12.932049,-51.833363,5217,4.2,73,TBD
+RAB_00521,Mabuya sp,Iphisa elegans,-12.5613,-70.107,4538,1.7,50.1,TBD
+CHUNB11457,Iphisa elegans,Iphisa elegans,-12.741373,-60.138584,5040,2.6,47.6,TBD
+CHUNB18022,Iphisa elegans,Iphisa elegans,-11.677537,-61.183666,5188,4.1,88.7,TBD
+CHUNB40060,Iphisa elegans,Iphisa elegans,-7.034836,-55.41987,5151,3.7,73.4,TBD
+GRCOLLI06954,Iphisa elegans,Iphisa elegans,-10.773884,-65.323952,5201,4.5,106.5,TBD
+UMMZ_245039,Iphisa elegans,Iphisa elegans,-12.57230474,-70.08717399,5185,3.8,99.7,TBD
+CHUNB44544,Leptodeira annulata,Leptodeira annulata,-17.359421,-44.955194,5010,3.2,55.4,TBD
+CHUNB52871,Leptodeira annulata,Leptodeira annulata,-13.476562,-61.044379,5015,3.2,56,TBD
+CHUNB61157,Leptodeira annulata,Leptodeira annulata,-4.276069,-41.778505,5085,3.6,86.8,TBD
+CHUNB69398,Leptodeira annulata,Leptodeira annulata,-15.818862,-50.609163,5063,3.3,70.6,TBD
+CHUNB69433,Leptodeira annulata,Leptodeira annulata,-6.485331,-38.311129,5073,3.1,74.6,TBD
+GRCOLLI25509,Leptodeira annulata,Leptodeira annulata,-15.009324,-59.952558,5084,3.8,84.5,TBD
+GRCOLLI26789,Leptodeira annulata,Leptodeira annulata,-7.330783,-47.470092,4454,2,37.4,TBD
+LJVITT09836,Leptodeira annulata,Leptodeira annulata,-7.034836,-55.41987,5098,3.9,92.9,TBD
+UMMZ_245058,Leptodeira annulata,Leptodeira annulata,-12.87016698,-71.40760101,5080,3.4,75.3,TBD
+CHUNB35356,Lygophis paucidens,Lygophis paucidens,-11.463466,-39.526265,4772,2.6,39.9,TBD
+CHUNB41281,Lygophis paucidens,Lygophis paucidens,-10.544429,-46.412466,4930,3.1,67.8,TBD
+CHUNB62394,Lygophis paucidens,Lygophis paucidens,-2.003328,-54.073375,4837,3.1,44.7,TBD
+CHUNB74027,Lygophis paucidens,Lygophis paucidens,-14.136245,-47.519093,4985,3.6,92.2,TBD
+GRCOLLI19670,Lygophis paucidens,Lygophis paucidens,-4.276069,-41.778505,4874,3.3,58.7,TBD
+GRCOLLI21198,Lygophis paucidens,Lygophis paucidens,-14.66918,-52.361193,3634,0.8,19.6,TBD
+GRCOLLI26916,Lygophis paucidens,Lygophis paucidens,-7.330783,-47.470092,4521,2.5,37.1,TBD
+CHUNB50707,Manciola guaporicola,Manciola guaporicola,-13.195033,-60.818426,5130,3.4,41.1,TBD
+CHUNB10472,Manciola guaporicola,Manciola guaporicola,-10.466112,-50.506266,5266,4.3,76.1,TBD
+CHUNB38741,Manciola guaporicola,Manciola guaporicola,-14.708216,-47.518802,5231,3.4,66.7,TBD
+CHUNB40065,Manciola guaporicola,Manciola guaporicola,-7.034836,-55.41987,5254,3.3,74.5,TBD
+CHUNB64036,Manciola guaporicola,Manciola guaporicola,-14.66918,-52.361193,5273,3.6,84.2,TBD
+GRCOLLI25705,Manciola guaporicola,Manciola guaporicola,-15.009324,-59.952558,5200,3.8,59.7,TBD
+CHUNB52567,Mastigodryas boddaerti,Mastigodryas boddaerti,-12.029774,-48.537811,3866,0.7,18.7,TBD
+CHUNB68915,Mastigodryas boddaerti,Mastigodryas boddaerti,-12.932049,-51.833363,5142,4,105.5,TBD
+GRCOLLI21125,Mastigodryas boddaerti,Mastigodryas boddaerti,-14.66918,-52.361193,5124,3.8,96.4,TBD
+GRCOLLI25707,Mastigodryas boddaerti,Mastigodryas boddaerti,-15.009324,-59.952558,5073,3,63.4,TBD
+GRCOLLI25914,Mastigodryas boddaerti,Mastigodryas boddaerti,-3.766889,-49.667184,5062,3,67.8,TBD
+CHUNB10584,Micrablepharus atticolus,Micrablepharus atticolus,-10.466112,-50.506266,5038,3,58,TBD
+CHUNB37312,Micrablepharus atticolus,Micrablepharus atticolus,-15.921772,-46.107752,5124,3.4,86.2,TBD
+CHUNB58523,Micrablepharus atticolus,Micrablepharus atticolus,-18.307724,-51.957778,5117,3.6,81.8,TBD
+GRCOLLI04216,Micrablepharus atticolus,Micrablepharus atticolus,-12.741373,-60.138584,5057,3.1,61.9,TBD
+GRCOLLI05508,Micrablepharus atticolus,Micrablepharus atticolus,-11.677537,-61.183666,5131,4.2,88.5,TBD
+GRCOLLI26401,Micrablepharus atticolus,Micrablepharus atticolus,-13.188043,-53.261519,5107,3.1,76.7,TBD
+CHUNB14562,Micrablepharus maximiliani,Micrablepharus maximiliani,-26.481473,-51.988774,5094,3.5,70.2,TBD
+CHUNB22676,Micrablepharus maximiliani,Micrablepharus maximiliani,-10.773884,-65.323952,5055,3.3,63.2,TBD
+CHUNB34982,Micrablepharus maximiliani,Micrablepharus maximiliani,-7.034836,-55.41987,5029,3,63.7,TBD
+CHUNB37170,Micrablepharus maximiliani,Micrablepharus maximiliani,-14.482839,-46.515638,5070,3.5,71,TBD
+CHUNB37204,Micrablepharus maximiliani,Micrablepharus maximiliani,-6.485331,-38.311129,5122,3.4,81.2,TBD
+CHUNB52077,Micrablepharus maximiliani,Micrablepharus maximiliani,-7.330783,-47.470092,4996,2.5,52,TBD
+CHUNB63132,Micrablepharus maximiliani,Micrablepharus maximiliani,-14.66918,-52.361193,5119,3.3,83.7,TBD
+CHUNB52143,Micrurus brasiliensis,Micrurus frontalis,-7.330783,-47.470092,4002,1.5,35.1,TBD
+CHUNB35989,Micrurus frontalis,Micrurus frontalis,-15.794087,-47.887905,5025,3.6,67.8,TBD
+CHUNB42648,Micrurus frontalis,Micrurus frontalis,-16.851781,-42.064207,5044,3.7,76.9,TBD
+NOID1,Micrurus frontalis,Micrurus frontalis,-14.136245,-47.519093,5054,4.2,79.9,TBD
+CHUNB09350,Notomabuya frenata,Notomabuya frenata,-13.535094,-48.223908,5118,3.1,47.4,TBD
+CHUNB14575,Notomabuya frenata,Notomabuya frenata,-26.481473,-51.988774,5237,3.3,62.7,TBD
+CHUNB38752,Notomabuya frenata,Notomabuya frenata,-14.708216,-47.518802,5236,2.8,59.3,TBD
+CHUNB58541,Notomabuya frenata,Notomabuya frenata,-11.969573,-41.268403,5223,3.5,55.8,TBD
+GRCOLLI26598,Notomabuya frenata,Notomabuya frenata,-7.330783,-47.470092,5251,4.4,99.6,TBD
+CHUNB33809,Oxybelis aeneus,Oxybelis aeneus,-10.544429,-46.412466,5118,3.1,82.5,TBD
+CHUNB52413,Oxybelis aeneus,Oxybelis aeneus,-13.799279,-47.463436,5124,3.6,93.2,TBD
+CHUNB61164,Oxybelis aeneus,Oxybelis aeneus,-4.276069,-41.778505,4985,2.4,48.1,TBD
+CHUNB63125,Oxybelis aeneus,Oxybelis aeneus,-6.9633,-35.6917,5003,2.7,50.1,TBD
+TJC1032,Oxybelis aeneus,Oxybelis aeneus,17.96901,-89.36086,5033,3.7,53.8,TBD
+TJC1554,Oxybelis aeneus,Oxybelis aeneus,4.72239,-60.0028,5098,4.1,87.3,TBD
+CHUNB38893,Oxyrhopus guibei,Oxyrhopus guibei,-15.794087,-47.887905,5019,2.9,69.4,TBD
+CHUNB41310,Oxyrhopus guibei,Oxyrhopus guibei,-10.544429,-46.412466,5029,3.4,73.2,TBD
+CHUNB45390,Oxyrhopus guibei,Oxyrhopus guibei,-9.267406,-49.948692,5073,3.8,99.3,TBD
+CHUNB55902,Oxyrhopus guibei,Oxyrhopus guibei,-14.66918,-52.361193,5063,3.6,95.9,TBD
+GRCOLLI25679,Oxyrhopus guibei,Oxyrhopus guibei,-15.009324,-59.952558,5024,3.1,71.6,TBD
+CHUNB47098,Oxyrhopus melanogenys,Oxyrhopus melanogenys,-9.871723,-56.09161,4878,1.6,52.4,TBD
+RAB_00002,Oxyrhopus melanogenys,Oxyrhopus melanogenys,-12.89338333,-71.40336667,4989,3.1,66.8,TBD
+RAB_00269,Oxyrhopus melanogenys,Oxyrhopus melanogenys,-12.5613,-70.107,4933,3,54.1,TBD
+UMMZ_245065,Oxyrhopus melanogenys,Oxyrhopus melanogenys,-12.89304597,-71.40603402,5036,3.3,74.7,TBD
+UMMZ_245071,Oxyrhopus melanogenys,Oxyrhopus melanogenys,-12.57,-70.09,5015,2.8,62.5,TBD
+CHUNB47113,Oxyrhopus petolarius,Oxyrhopus petolarius,-9.871723,-56.09161,5072,2.6,90,TBD
+CHUNB73994,Oxyrhopus petolarius,Oxyrhopus petolarius,-10.440931,-49.166658,5058,3.2,91.2,TBD
+UMFS_23133,Oxyrhopus petolarius,Oxyrhopus petolarius,-12.86773204,-71.40632696,5110,3.5,110.9,TBD
+UMMZ_245072,Oxyrhopus petolarius,Oxyrhopus petolarius,-12.57139103,-70.08507499,5034,3.1,69.8,TBD
+CHUNB59060,Oxyrhopus trigeminus,Oxyrhopus trigeminus 1,-14.136245,-47.519093,4961,3,57,TBD
+UMMZ_209964,Oxyrhopus trigeminus,Oxyrhopus trigeminus 1,-9.533244,-37.295973,5054,4,75.3,TBD
+CHUNB35355,Oxyrhopus trigeminus,Oxyrhopus trigeminus 1,-11.463466,-39.526265,5061,3.4,83.1,TBD
+CHUNB40806,Oxyrhopus trigeminus,Oxyrhopus trigeminus 1,-6.485331,-38.311129,5070,3.4,85.6,TBD
+CHUNB44479,Oxyrhopus trigeminus,Oxyrhopus trigeminus 1,-17.359421,-44.955194,5054,3.6,82.8,TBD
+CHUNB53041,Oxyrhopus trigeminus,Oxyrhopus trigeminus 1,-2.003328,-54.073375,5064,3.6,84.6,TBD
+CHUNB63645,Oxyrhopus trigeminus,Oxyrhopus trigeminus 1,-14.66918,-52.361193,5076,3.6,86.8,TBD
+CHUNB72568,Oxyrhopus trigeminus,Oxyrhopus trigeminus 1,-15.794087,-47.887905,5068,2.8,80.7,TBD
+CHUNB41304,Oxyrhopus guibei,Oxyrhopus trigeminus 2,-10.544429,-46.412466,5087,3.4,91.1,TBD
+CHUNB45388,Oxyrhopus guibei,Oxyrhopus trigeminus 2,-9.267406,-49.948692,4996,3,53.3,TBD
+CHUNB56895,Oxyrhopus rhombifer,Oxyrhopus trigeminus 2,-15.794087,-47.887905,5114,3.5,97,TBD
+CHUNB57764,Oxyrhopus rhombifer,Oxyrhopus trigeminus 2,-12.294693,-50.969173,4772,1.7,33.9,TBD
+CHUNB56712,Oxyrhopus trigeminus,Oxyrhopus trigeminus 2,-6.833715,-35.123893,5094,3.2,92.7,TBD
+CHUNB61159,Oxyrhopus trigeminus,Oxyrhopus trigeminus 2,-4.276069,-41.778505,5104,3.8,101.7,TBD
+CHUNB32133,Oxyrhopus trigeminus,Oxyrhopus trigeminus 2,-7.330783,-47.470092,4743,3.1,57.4,TBD
+CHUNB52073,Thamnodynastes hypoconia,Philodryas nattereri,-7.330783,-47.470092,4913,3.9,59.5,TBD
+CHUNB38779,Philodryas nattereri,Philodryas nattereri,-15.794087,-47.887905,5121,3.4,99.6,TBD
+CHUNB40804,Philodryas nattereri,Philodryas nattereri,-6.485331,-38.311129,5119,3.5,94.9,TBD
+CHUNB44543,Philodryas nattereri,Philodryas nattereri,-17.359421,-44.955194,5049,3,52,TBD
+CHUNB52154,Philodryas nattereri,Philodryas nattereri,-7.330783,-47.470092,4961,3.5,58.6,TBD
+CHUNB63647,Philodryas nattereri,Philodryas nattereri,-14.66918,-52.361193,5132,3.8,103.6,TBD
+CHUNB74026,Philodryas nattereri,Philodryas nattereri,-12.184014,-43.218696,5119,3.3,94.5,TBD
+GRCOLLI25662,Philodryas nattereri,Philodryas nattereri,-15.009324,-59.952558,5120,3,89.3,TBD
+CHUNB40094,Philodryas olfersii,Philodryas olfersii,-7.034836,-55.41987,5135,3.5,105.8,TBD
+CHUNB52116,Philodryas olfersii,Philodryas olfersii,-7.330783,-47.470092,5017,3.9,92.8,TBD
+CHUNB58538,Philodryas olfersii,Philodryas olfersii,-11.969573,-41.268403,5126,3.3,101.2,TBD
+CHUNB69323,Philodryas olfersii,Philodryas olfersii,-15.737939,-48.283444,5139,3.7,110.1,TBD
+CHUNB71127,Philodryas olfersii,Philodryas olfersii,-12.5923,-52.209892,5064,3.1,64.3,TBD
+CHUNB41117,Phimophis guerini,Phimophis guerini,-10.544429,-46.412466,5079,3.5,88,TBD
+CHUNB52151,Phimophis guerini,Phimophis guerini,-7.330783,-47.470092,4822,3.7,58,TBD
+CHUNB56911,Phimophis guerini,Phimophis guerini,-13.799279,-47.463436,5056,3,80.6,TBD
+CHUNB61151,Phimophis guerini,Phimophis guerini,-4.276069,-41.778505,5068,3.6,82.5,TBD
+CHUNB61948,Phimophis guerini,Phimophis guerini,-2.003328,-54.073375,5055,3.5,74.5,TBD
+GFHORTA009,Phimophis guerini,Phimophis guerini,-14.66918,-52.361193,5064,3.1,76,TBD
+GRCOLLI25770,Phimophis guerini,Phimophis guerini,-15.009324,-59.952558,5018,2.8,61.7,TBD
+CHUNB50457,Phyllopezus pollicaris,Phyllopezus pollicaris,-13.003894,-41.373213,5175,3.3,48.4,TBD
+CHUNB57417,Phyllopezus pollicaris,Phyllopezus pollicaris,-3.936131,-40.893929,5070,3.4,42.3,TBD
+CHUNB58671,Phyllopezus pollicaris,Phyllopezus pollicaris,-20.554843,-56.673567,5255,4.2,79,TBD
+CHUNB59068,Phyllopezus pollicaris,Phyllopezus pollicaris,-14.136245,-47.519093,5198,3.7,64.2,TBD
+CHUNB64617,Phyllopezus pollicaris,Phyllopezus pollicaris,-7.231753,-39.40839,5271,3.8,83.9,TBD
+Ppo6,Phyllopezus pollicaris,Phyllopezus pollicaris,-7.49067,-36.284342,5179,3.3,52.5,TBD
+CHUNB22536,Plica umbra,Plica umbra,-10.773884,-65.323952,5314,4.8,87.2,TBD
+CHUNB32324,Plica umbra,Plica umbra,-7.512225,-63.026698,5320,4.2,86.1,TBD
+CHUNB50638,Plica umbra,Plica umbra,-13.195033,-60.818426,5185,2.9,48.9,TBD
+UMMZ_245045,Plica umbra,Plica umbra,-12.89063333,-71.41083333,5030,2.4,61.3,TBD
+CHUNB11470,Polychrus acutirostris,Polychrus acutirostris,-12.741373,-60.138584,5304,4,81.2,TBD
+CHUNB26658,Polychrus acutirostris,Polychrus acutirostris,-17.219742,-46.875419,5303,4.4,81.2,TBD
+CHUNB38230,Polychrus acutirostris,Polychrus acutirostris,-11.463466,-39.526265,5283,4.1,70.3,TBD
+CHUNB38260,Polychrus acutirostris,Polychrus acutirostris,-7.034836,-55.41987,5280,4.2,70.9,TBD
+CHUNB45209,Polychrus acutirostris,Polychrus acutirostris,-9.267406,-49.948692,5298,4,77.1,TBD
+CHUNB68399,Polychrus acutirostris,Polychrus acutirostris,-12.932049,-51.833363,5270,3.4,67.6,TBD
+CHUNB52134,Pseudoboa neuwiedii,Pseudoboa nigra,-7.330783,-47.470092,4673,2.5,47.9,TBD
+GRCOLLI26733,Pseudoboa nigra,Pseudoboa nigra,-7.330783,-47.470092,4870,3.6,63.4,TBD
+CHUNB37261,Pseudoboa nigra,Pseudoboa nigra,-15.921772,-46.107752,5054,3.1,74.5,TBD
+CHUNB40096,Pseudoboa nigra,Pseudoboa nigra,-7.034836,-55.41987,5024,2.7,62.2,TBD
+CHUNB50856,Pseudoboa nigra,Pseudoboa nigra,-2.003328,-54.073375,5055,3.1,74.1,TBD
+CHUNB52149,Pseudoboa nigra,Pseudoboa nigra,-7.330783,-47.470092,4567,2.3,40.7,TBD
+CHUNB52150,Pseudoboa nigra,Pseudoboa nigra,-7.330783,-47.470092,4822,3.3,45.2,TBD
+CHUNB63678,Pseudoboa nigra,Pseudoboa nigra,-14.66918,-52.361193,5057,3.2,74.8,TBD
+CHUNB64756,Pseudoboa nigra,Pseudoboa nigra,-7.231753,-39.40839,5052,3.3,72.4,TBD
+GRCOLLI25194,Pseudoboa nigra,Pseudoboa nigra,-15.009324,-59.952558,4744,1.9,29.4,TBD
+CHUNB38372,Psomophis joberti,Psomophis joberti,-14.450174,-47.045083,5016,2.9,78.9,TBD
+CHUNB45421,Psomophis joberti,Psomophis joberti,-9.267406,-49.948692,5041,3.2,100.3,TBD
+CHUNB52071,Psomophis joberti,Psomophis joberti,-7.330783,-47.470092,4820,3.6,49.1,TBD
+CHUNB52752,Psomophis joberti,Psomophis joberti,-12.029774,-48.537811,4907,1.8,50.9,TBD
+CHUNB61140,Psomophis joberti,Psomophis joberti,-4.276069,-41.778505,5014,3.2,88.4,TBD
+Pjo8,Psomophis joberti,Psomophis joberti,-6.833715,-35.123893,4894,2.3,41.8,TBD
+CHUNB41112,Rodriguesophis iglesiasi,Rodriguesophis iglesiasi,-10.544429,-46.412466,5087,3.6,101.6,TBD
+CHUNB52066,Rodriguesophis iglesiasi,Rodriguesophis iglesiasi,-7.330783,-47.470092,5077,3.2,97.5,TBD
+CHUNB62398,Rodriguesophis iglesiasi,Rodriguesophis iglesiasi,-13.625934,-44.46597,5060,3.4,90.9,TBD
+GRCOLLI26951,Rodriguesophis iglesiasi,Rodriguesophis iglesiasi,-16.687373,-45.413633,5046,2.7,73.4,TBD
+CHUNB33806,Sibynomorphus mikanii,Sibynomorphus mikanii,-10.544429,-46.412466,5050,3.2,83.4,TBD
+CHUNB50252,Sibynomorphus mikanii,Sibynomorphus mikanii,-16.069575,-47.984111,5042,3.2,73.8,TBD
+CHUNB52075,Sibynomorphus mikanii,Sibynomorphus mikanii,-7.330783,-47.470092,4808,3,51.7,TBD
+CHUNB64778,Sibynomorphus mikanii,Sibynomorphus mikanii,-7.231753,-39.40839,5059,3.6,88.4,TBD
+CHUNB68936,Sibynomorphus mikanii,Sibynomorphus mikanii,-12.932049,-51.833363,5060,3.1,80.2,TBD
+CHUNB71461,Sibynomorphus mikanii,Sibynomorphus mikanii,-14.100818,-46.631968,5029,2.8,70.8,TBD
+CHUNB44202,Spilotes sp,Spilotes sp,-7.034836,-55.41987,5108,2.2,76.9,TBD
+CHUNB62580,Spilotes sp,Spilotes sp,-12.13678,-49.173847,5125,4.1,93,TBD
+CHUNB64758,Spilotes sp,Spilotes sp,-7.231753,-39.40839,5069,3.2,70.4,TBD
+CHUNB68916,Spilotes sp,Spilotes sp,-12.932049,-51.833363,5099,3.9,81.2,TBD
+CHUNB69456,Spilotes sp,Spilotes sp,-13.257326,-46.885799,5113,4,92.6,TBD
+GRCOLLI25665,Spilotes sp,Spilotes sp,-15.009324,-59.952558,5100,4,83.9,TBD
+CHUNB35352,Taeniophallus occipitalis,Taeniophallus occipitalis 2,-11.463466,-39.526265,5051,2.7,56.1,TBD
+CHUNB44672,Taeniophallus occipitalis,Taeniophallus occipitalis 2,-14.150185,-48.076843,5047,3,68.4,TBD
+CHUNB61158,Taeniophallus occipitalis,Taeniophallus occipitalis 2,-4.276069,-41.778505,5077,3.2,85,TBD
+CHUNB63652,Taeniophallus occipitalis,Taeniophallus occipitalis 2,-14.66918,-52.361193,5092,3.4,85.3,TBD
+GRCOLLI26711,Taeniophallus occipitalis,Taeniophallus occipitalis 2,-7.330783,-47.470092,4881,3.4,55.2,TBD
+GRCOLLI26930,Taeniophallus occipitalis,Taeniophallus occipitalis 2,-16.687373,-45.413633,5100,3.4,88.1,TBD
+Toc7,Taeniophallus occipitalis,Taeniophallus occipitalis 2,-6.833715,-35.123893,5077,2.7,78.1,TBD
+CHUNB41316,Tantilla melanocephala,Tantilla melanocephala,-10.544429,-46.412466,4842,2.4,36.8,TBD
+Tsp9,Tantilla sp,Tantilla melanocephala,-6.833715,-35.123893,5047,3.4,64.5,TBD
+CHUNB41284,Tantilla melanocephala,Tantilla melanocephala,-10.544429,-46.412466,5068,3.4,76.6,TBD
+CHUNB52118,Tantilla melanocephala,Tantilla melanocephala,-7.330783,-47.470092,4888,3.6,54.2,TBD
+CHUNB57516,Tantilla melanocephala,Tantilla melanocephala,-13.625934,-44.46597,4949,2.8,41,TBD
+CHUNB63659,Tantilla melanocephala,Tantilla melanocephala,-14.66918,-52.361193,4890,2.4,35.5,TBD
+CHUNB64755,Tantilla melanocephala,Tantilla melanocephala,-7.231753,-39.40839,5045,2.9,53.3,TBD
+GRCOLLI25951,Tantilla melanocephala,Tantilla melanocephala,-13.799279,-47.463436,5079,4.1,88.6,TBD
+UMMZ_245075,Tantilla melanocephala,Tantilla melanocephala,-12.56078934,-70.095962,4900,2.7,50.7,TBD
+CHUNB38789,Tantilla melanocephala,Thamnodynastes hypoconia,-17.359421,-44.955194,5087,4.2,98.4,TBD
+CHUNB41315,Thamnodynastes hypoconia,Thamnodynastes hypoconia,-10.544429,-46.412466,5087,3.4,89.2,TBD
+CHUNB61133,Thamnodynastes hypoconia,Thamnodynastes hypoconia,-4.276069,-41.778505,5065,3.5,84.8,TBD
+NOID2,Thamnodynastes hypoconia,Thamnodynastes hypoconia,-15.794087,-47.887905,5087,3.5,95.6,TBD
+CHUNB44545,Trilepida brasiliensis,Trilepida brasiliensis 2,-17.359421,-44.955194,5015,4,84,TBD
+CHUNB50870,Trilepida brasiliensis,Trilepida brasiliensis 2,-14.087734,-46.36201,4996,2.9,70.5,TBD
+CHUNB51368,Trilepida brasiliensis,Trilepida brasiliensis 2,-14.171078,-44.545669,4978,3.6,66.6,TBD
+CHUNB52064,Trilepida brasiliensis,Trilepida brasiliensis 2,-7.330783,-47.470092,4363,1.7,33.9,TBD
+LJVITT10447,Trilepida brasiliensis,Trilepida brasiliensis 2,-10.544429,-46.412466,5014,3.2,79.9,TBD
+GRCOLLI26120,Trilepida brasiliensis,Trilepida koppesi,-13.799279,-47.463436,5051,3.6,85.2,TBD
+CHUNB62577,Leptotyphlops fuliginosus,Trilepida koppesi,-12.13678,-49.173847,4931,2.7,59.3,TBD
+CHUNB46211,Trilepida dimidiata,Trilepida koppesi,-9.267406,-49.948692,5006,3.3,83.3,TBD
+CHUNB40750,Trilepida koppesi,Trilepida koppesi,-16.258541,-47.95572,3809,0.7,19.5,TBD
+CHUNB40813,Trilepida koppesi,Trilepida koppesi,-6.485331,-38.311129,4896,3,55.1,TBD
+CHUNB50869,Trilepida koppesi,Trilepida koppesi,-2.003328,-54.073375,5001,4.3,80.5,TBD
+CHUNB62461,Trilepida koppesi,Trilepida koppesi,-18.169573,-47.947703,5033,4,95.5,TBD
+CHUNB74239,Tropidurus oreadicus,Tropidurus itambere,-15.869179,-56.094162,5332,4.2,86.3,TBD
+CHUNB58560,Tropidurus itambere,Tropidurus itambere,-11.969573,-41.268403,5303,3.1,74,TBD
+CHUNB58565,Tropidurus itambere,Tropidurus itambere,-20.554843,-56.673567,5277,3,64,TBD
+CHUNB71109,Tropidurus itambere,Tropidurus itambere,-12.5923,-52.209892,5325,3.3,79.4,TBD
+CHUNB74201,Tropidurus itambere,Tropidurus itambere,-21.841096,-43.796383,5327,3.9,96.7,TBD
+CHUNB30749,Tropidurus insulanus,Tropidurus oreadicus,-7.034836,-55.41987,5341,3.4,95,TBD
+CHUNB11305,Tropidurus oreadicus,Tropidurus oreadicus,-26.481473,-51.988774,5320,3.5,88.7,TBD
+CHUNB35364,Tropidurus oreadicus,Tropidurus oreadicus,-11.463466,-39.526265,5328,3.4,96.2,TBD
+CHUNB37577,Tropidurus oreadicus,Tropidurus oreadicus,-6.485331,-38.311129,5339,3.5,94.8,TBD
+CHUNB52022,Tropidurus oreadicus,Tropidurus oreadicus,-7.330783,-47.470092,5265,4.4,83.7,TBD
+CHUNB69429,Tropidurus oreadicus,Tropidurus oreadicus,-13.776863,-47.26352,5329,4.3,91.9,TBD
+CHUNB28189,Vanzosaura savanicola,Vanzosaura savanicola,-10.544429,-46.412466,5090,3.2,69.6,TBD
+CHUNB37303,Vanzosaura savanicola,Vanzosaura savanicola,-15.921772,-46.107752,5116,3.3,82.4,TBD
+CHUNB51300,Vanzosaura savanicola,Vanzosaura savanicola,-14.171078,-44.545669,5077,2.9,65.4,TBD
+CHUNB58572,Vanzosaura savanicola,Vanzosaura savanicola,-20.474654,-55.790616,5082,2.6,72,TBD
+CHUNB58587,Vanzosaura savanicola,Vanzosaura savanicola,-18.307724,-51.957778,5072,2.7,61.9,TBD
+CHUNB38942,Xenodon merremii,Xenodon merremii,-10.544429,-46.412466,5063,3.8,112.9,TBD
+CHUNB44477,Xenodon merremii,Xenodon merremii,-17.359421,-44.955194,5042,3.5,100.1,TBD
+CHUNB52144,Xenodon merremii,Xenodon merremii,-7.330783,-47.470092,4849,3.7,59.2,TBD
+CHUNB61173,Xenodon merremii,Xenodon merremii,-4.276069,-41.778505,5057,3.8,110.4,TBD
+CHUNB63662,Xenodon merremii,Xenodon merremii,-14.66918,-52.361193,5025,3.5,92.3,TBD
+GRCOLLI24148,Xenodon merremii,Xenodon merremii,-20.788679,-51.710001,5043,3.3,98,TBD
+GRCOLLI26105,Xenodon merremii,Xenodon merremii,-13.799279,-47.463436,5000,3.1,71.1,TBD
