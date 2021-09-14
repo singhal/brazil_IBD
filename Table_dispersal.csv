@@ -1,0 +1,34 @@
+﻿sp1,dispersal (km),dispersal units,dispersal_citation,dispersal_type,critter
+Ameiva chrysolaema,0.0352,km/sqrt(gen),Dessauer et al. 2000,value for whiptail species (in the same family),lizards
+Amphibolurus muricatus,0.0674,km,Warner and Shine 2007,mean distance traveled of hatchlings,lizards
+Anolis sagrei,0.0106,km/gen,Calsbeek et al. 2014,mark-recapture field estimate for congener Anolis sagrei (juveniles); averaged across sexes,lizards
+Boa constrictor,1.5,km,Bertona 2003,upper end of dispersal seen across a few months,snakes
+Carlia rubrigularis,0.123,km/sqrt(gen),Phillips et al. 2004,Rousset method (though limited by estimates of D from the center) - 112 to 133 m / sqrt(gen) under mixed model,lizards
+Chlamydosaurus kingii,1.05,km,Ujvari et al. 2008,middle point of recapture distance in male juveniles,lizards
+Cnemidophorus punctilinealis,0.0352,km/sqrt(gen),Dessauer et al. 2000,based on unpublished capture-recapture data included in paper,lizards
+Coluber constrictor,0.781,km,Brown and Parker 1976,mean male dispersal,snakes
+Crotaphytus collaris,0.3,km,Templeton et al. 2011,median dispersal for juvenile (estimated from graph),lizards
+Egernia cunninghami,0.477,km,Stow et al. 2001,distance of adults from natal site to recapture site in reserve,lizards
+Elgaria coerulea,0.0161,km,Rutherford and Gregory 2001,recapture distance of adults,lizards
+Eumeces skiltonianus,0.008,km,Rutherford and Gregory 2001,recapture distance of adults,lizards
+Eunectes murinus,3,km,Munoz and Rivas 1994,,snakes
+Gnypetoscincus queenslandiae,0.000843,km2 /gen,Sumner et al. 2001,mark-recapture,lizards
+Hoplocephalus bungaroides,0.161,km,Webb & Shine 1997,dispersal of juveniles,snakes
+Hoplodactylus maculatus,0.05,km/gen,Fitness et al. 2011,upper bound as estimated from mark-recapture,lizards
+Lacerta vivipara,0.1,km/gen,Vercken et al. 12012,"field-estimate for congener; max dispersal estimated at 100m for Lacerta vivipara, modes at 10-15m (primary) and 30-40m (secondary)",lizards
+Liasis fuscus ,12,km,Madsen and Shine 1996,(max) movement across wet season,snakes
+Natrix maura,0.18,km,Hailey and Davies 1987,distance between recaptures in females,snakes
+Natrix natrix,0.63,km,Kindler et al. 2017,sqrt of measure of female home range size (40 ha),snakes
+Niveoscincus microlepidotus,0.012,km,Olsson and Shine 2003,natal dispersal in females,lizards
+Opheodrys aestivus,0.028,km,Plummer 1997,distance between captures,snakes
+Pantherophis obsoletus,1.02,km,Blouin-Demers and Weatherhead 2002; Blouin-Demers and Weatherhead pers. comm.,we bound this from 1.02 to 4.03 km given mean and maximum distances of nesting sites to hibernaculum,snakes
+Podarcis muralis,0.5,km,Scaletool website: http://scales.ckff.si/scaletool/index.php?menu=6&submenu=0&sid=113,maximal dispersal (as cited Stumpel 2004),lizards
+Pseudechis porphyriacus,0.3,km,Shine 1987,sqrt of male home range (9.6 ha),snakes
+Rhinoplocephalus nigrescens,0.99,km,Keogh et al. 2007,distance between capture sites over 10 years in males,snakes
+Sceloporus grammicus,0.08,km/gen,Sites et al. 1995,mark-recapture (in hybrid zone),lizards
+Sceloporus occidentalis,0.0456,km,Massot et al. 2003,field estimate for congener,lizards
+Stegonotus cucullatus,0.285,km/month,Dubey et al. 2008,mark-recapture over one month in males,snakes
+Thamnophis atratus,0.0729,km,Welsh et al. 2010,juvenile male dispersal,snakes
+Tiliqua adelaidensis,0.011,km,Schofield et al. 2012,seasonal movement from burrows,lizards
+Uta stansburiana,0.02,km,Doughty and Sinervo 1994,"hatchling dispersal, LB",lizards
+Uta stansburiana,0.1,km,Doughty and Sinervo 1994,"hatchling dispersal, DP",lizards
